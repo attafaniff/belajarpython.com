@@ -31,3 +31,5 @@ Hanya dengan menuliskan kode print seperti yang diatas, anda sudah bisa mencetak
         <a href="/tutorial/instalasi-python" class="hoverable">Instalasi Python<i class="fas fa-arrow-circle-right"></i></a>
     </div>
 </div>
+
+
